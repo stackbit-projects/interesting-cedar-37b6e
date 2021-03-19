@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Marcin's heading
+    title: Marcin's heading 2
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
